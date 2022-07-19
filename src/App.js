@@ -1,5 +1,6 @@
 import './App.css';
 import Movies from './components/movies';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

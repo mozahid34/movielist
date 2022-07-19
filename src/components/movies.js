@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { getMovies } from '../fakeMovieService';
-import { table } from 'react-bootstrap';
+
 
 
 class Movies extends Component {
