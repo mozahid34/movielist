@@ -5,7 +5,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello world!</h1>
+      <h1 className= "bg-primary">Movies world!</h1>
       <Movies></Movies>
     </div>
   );
